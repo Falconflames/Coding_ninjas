@@ -14,4 +14,4 @@ You can set as many alarms as you want and also remove as per your need.
 You can also remove any alarm if you don't want it from the set alarms list using remove button.
 
 # Go to Alarm Clock
-[(https://falconflames.github.io/Coding_ninjas/)]
+https://falconflames.github.io/Coding_ninjas/
