@@ -12,3 +12,6 @@ In This application you can set alarms as per your preferred time and a alarm so
 You can set as many alarms as you want and also remove as per your need.
 
 You can also remove any alarm if you don't want it from the set alarms list using remove button.
+
+# Go to Alarm Clock
+[(https://falconflames.github.io/Coding_ninjas/)]
